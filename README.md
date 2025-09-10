@@ -30,7 +30,7 @@ To run the scraper, execute the script from your command line.
 The `--out` argument is optional; if omitted, the output will be saved to `topic_structure.json` by default.
 
 ```
-python3 vishay_scraper.py --out my_output_file.json
+python3 get_structure.py --out my_output_file.json
 ```
 
 ### **Project Notes and Design Decisions**
